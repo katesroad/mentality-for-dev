@@ -3,9 +3,9 @@
 **About**: [How To Learn Quickly in Tech - Alex & Rahul](https://www.youtube.com/watch?v=WVtF6JfM0ZQ&ab_channel=RahulPandey)
 
 
-**Add values**
-**Where to invest your time**
-**market driving economy**
+- **Add values**
+- **Where to invest your time**
+- **market driving economy**
 
 ## Asking questions
 
